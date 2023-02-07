@@ -1,0 +1,1 @@
+ord.itm[i].item[Strlen(ord.itm[i].item)-1] = 0
